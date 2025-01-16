@@ -26,7 +26,7 @@ Bu proje, modern ve kullanıcı dostu bir **Product Page** uygulamasıdır. Uygu
 3. **Mobil Uyum:**
    - Uygulama tüm cihazlarda optimum bir deneyim sunacak şekilde duyarlı tasarıma sahiptir.
 
-## Örnek Ekran Görüntüsü
+## Ekran Görüntüsü
 
 ![Product Page](https://github.com/mustafakaracuha/tailwind-product-page/blob/main/assets/screenshots/1.png)
 
