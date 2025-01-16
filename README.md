@@ -1,4 +1,4 @@
-# Product Page Uygulaması
+# TailwindCss Product Page
 
 Bu proje, modern ve kullanıcı dostu bir **Product Page** uygulamasıdır. Uygulama, ürünlerin görselleri, açıklamaları, fiyatları ve kullanıcının sepete ürün ekleyebilmesi için button gibi temel özellikleri içermektedir.
 
