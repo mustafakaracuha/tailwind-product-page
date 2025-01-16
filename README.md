@@ -28,5 +28,5 @@ Bu proje, modern ve kullanıcı dostu bir **Product Page** uygulamasıdır. Uygu
 
 ## Örnek Ekran Görüntüsü
 
-![Product Page](https://via.placeholder.com/800x400.png?text=Product+Page+Screenshot)
+![Product Page](https://github.com/mustafakaracuha/tailwind-product-page/blob/main/assets/screenshots/1.png)
 
